@@ -1,5 +1,10 @@
 ﻿# Razorpay-clone
 
- to clone this project
-#dump it into your code editor
+
+
+To Clone this project, dump the code into your code editor and add 
+#npm install command
+thereafter switch to main folder and type
+#npm run dev or npm start
+
  
